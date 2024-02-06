@@ -1,0 +1,46 @@
+.enter_massage{
+  color: #07baff;
+  text-align: center;
+  font-size: 40px;
+  font-decorations: bold;
+  font-family:Gruppo;
+
+}
+
+.massage_window{
+  color: #07baff;
+  text-align: center;
+  margin-bottom:2px;
+  font-family:Gruppo;
+}
+
+.check{
+  text-align: center;
+  font-family:Gruppo;
+
+}
+
+.button {
+  background-color: #e9eee7; 
+  border: none;
+  color: #007cad;
+  padding: 15px 32px;
+  text-align: center;  
+  font-weight: bold;
+  display: inline-block;
+  font-size: 20px;
+  align-items: center;
+  font-family: Gruppo;
+  margin: 0;
+  position: relative;
+  left: 50%;  
+  transform: translate(-50%);  
+  margin-top: 20px;
+  margin-bottom:20px;
+
+}
+
+.modal_window{
+  color: #333;
+  text-align: center;
+}
