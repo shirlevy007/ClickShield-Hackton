@@ -6,8 +6,10 @@ Welcome to ClickShield! Let "ClickShield" be your Zen master in the world of cyb
 
 Our innovative product offers a seamless solution for verifying messages, by checking the validity of URLs embedded within messages and their grammer. By connecting to several APIs, our product efficiently scans incoming messages, extracting URLs and subjecting them and the text to rigorous validation checks.
 This streamlined process ensures that users can confidently navigate through digital content without the risk of encountering malicious or broken links.
-Home page which includes a text box to insert texts and links to check
+
+Home page which includes a text box to insert texts and links to check.
 This design showcases a user-friendly interface with clear areas for inputting and displaying the verification results for links and text messages.
+
 With our product, businesses and individuals alike can enjoy heightened security and reliability in their online interactions, safeguarding against potential threats and enhancing overall browsing experiences.
 
 ## Learn More
