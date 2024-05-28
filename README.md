@@ -10,6 +10,8 @@ This streamlined process ensures that users can confidently navigate through dig
 Home page which includes a text box to insert texts and links to check.
 This design showcases a user-friendly interface with clear areas for inputting and displaying the verification results for links and text messages.
 
+ClickShield offers usability on both computers and smartphones, prioritizing simplicity and accessibility for all users
+
 With our product, businesses and individuals alike can enjoy heightened security and reliability in their online interactions, safeguarding against potential threats and enhancing overall browsing experiences.
 
 ## Learn More
